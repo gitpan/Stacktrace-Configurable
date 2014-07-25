@@ -29,6 +29,6 @@ resources:
   bugtracker: https://github.com/tfoertsch/Stacktrace-Configurable/issues
   homepage: https://github.com/tfoertsch/Stacktrace-Configurable
   repository: https://github.com/tfoertsch/Stacktrace-Configurable.git
-version: '0.04'
+version: '0.05'
 x_contributors:
   - 'Torsten Förtsch <torsten@binary.com>'

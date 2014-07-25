@@ -23,6 +23,7 @@ t/008-percent_a.t
 t/009-frames.t
 t/100-l4p.t
 t/101-l4p_charY.t
+t/102-l4p_recursion.t
 t/release-pod-syntax.t
 t004_l2.pm
 t005_l2.pm
