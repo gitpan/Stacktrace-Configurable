@@ -5,7 +5,7 @@ author:
 build_requires:
   Test::More: '0.88'
 configure_requires:
-  Module::Build::Tiny: '0.036'
+  Module::Build::Tiny: '0.037'
 dynamic_config: 0
 generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.141170'
 license: perl
@@ -29,6 +29,6 @@ resources:
   bugtracker: https://github.com/tfoertsch/Stacktrace-Configurable/issues
   homepage: https://github.com/tfoertsch/Stacktrace-Configurable
   repository: https://github.com/tfoertsch/Stacktrace-Configurable.git
-version: '0.05'
+version: '0.06'
 x_contributors:
   - 'Torsten Förtsch <torsten@binary.com>'

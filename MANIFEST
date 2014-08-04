@@ -6,6 +6,7 @@ MANIFEST
 META.json
 META.yml
 README
+build-deb-package
 cpanfile
 dist.ini
 lib/Log/Log4perl/Layout/PatternLayout/Stacktrace.pm
